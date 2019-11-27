@@ -5538,6 +5538,11 @@ public final class Settings {
         public static final String TOAST_ICON = "toast_icon";
 
         /**
+         * @hide
+         */
+        public static final String USE_OLD_MOBILETYPE = "use_old_mobiletype";
+
+        /**
          * Whether to display cross sign for a data disabled connection
          * @hide
          */
